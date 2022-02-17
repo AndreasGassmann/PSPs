@@ -1,6 +1,6 @@
 # Wallet Interaction Standard
 
-- **PSP Number:** 23
+- **PSP Number:** 29
 - **Authors:** Andreas Gassmann <a.gassmann@papers.ch>, Alessandro De Carli <a.decarli@papers.ch>, Mike Godenzi <m.godenzi@papers.ch>, Pascal Brun <@pascuin>
 - **Status:** Draft
 - **Created:** 2021-10-23
